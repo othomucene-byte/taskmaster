@@ -7,7 +7,7 @@ export default function App() {
       <main className="max-w-6xl mx-auto space-y-6">
         <header className="border-b border-slate-800 pb-4">
           <h1 className="text-2xl font-bold text-white">TaskMaster</h1>
-          <p className="text-sm text-slate-400 mt-1">Uma aplicação simples e eficaz para gerenciar sua lista de tarefas diária.</p>
+          <p className="text-sm text-slate-400 mt-1">Uma aplicação simples e eficiente para gerenciar sua lista de tarefas diárias.</p>
         </header>
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-sm">
           <p className="text-sm text-slate-300">Aplicação React ativa com renderização em tempo real.</p>
