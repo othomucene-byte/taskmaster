@@ -1,6 +1,6 @@
 # TaskMaster
 
-Uma aplicação simples e eficaz para gerenciar sua lista de tarefas diária.
+Uma aplicação simples e eficiente para gerenciar sua lista de tarefas diárias.
 
 ## 🚀 Tecnologias
 - **React 19 + TypeScript**
